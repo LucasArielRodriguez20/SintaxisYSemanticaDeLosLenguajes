@@ -14,8 +14,18 @@
 - Proceso de compilación
 - Pruebas.
 
+### Problema
+
+- Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
+  
 ## Información del autor
 
 - Legajo: 168573-9
 - Apellido: Rodriguez
 - Nombre: Lucas Ariel
+- Numero de equipo : 30
+- UsuarioGit: [@LucasArielRodriguez](https://github.com/LucasArielRodriguez20)
+
+## Compilador Utilizado
+
+- C11
